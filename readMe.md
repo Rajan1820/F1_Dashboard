@@ -2,6 +2,10 @@
 
 ![Formula 1 Logo](logo.png)
 
+## Github link 
+[https://github.com/Rajan1820/F1_Dashboard](https://github.com/Rajan1820/F1_Dashboard)
+
+
 ## Overview
 
 The Formula 1 Dashboard is a web application built using Dash, a Python framework for building analytical web applications.FastF1, a Python library for accessing Formula 1 telemetry and data, is utilized in this project for data sourcing.This dashboard provides insights and visualizations related to Formula 1 races, including top drivers, leaderboard, track dominance, lap-time comparison, tyre strategies, and fastest lap speed trace.This project is created by Rajandeep Singh (B20CS049) as the final project for the course of Data Visualization taught by Dr. Suman Kundu.
